@@ -1,1 +1,3 @@
 Iniciando en GG con Nico
+
+Nico esta aprendiendo a programar y su ruta de data science
