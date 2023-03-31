@@ -3,7 +3,7 @@
 
 Un blog increíble para GG, hecho en la clase de Platzi.
 
-Aprendemos de todo con las mejores practicas como nuestro `$ modifcar un readme`
+Aprendemos de todo con las mejores practicas como `$ modifcar un readme`
 
 Comd Importantes | Git&GitHub
 ------------- | -------------
