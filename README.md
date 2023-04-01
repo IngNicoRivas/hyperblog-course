@@ -1,4 +1,4 @@
-# Hyperblog-course🐻
+# Hyperblog-course📈📉
 ![](https://aplicacionesparaaprenderingles.com/wp-content/uploads/Platzi.jpg)
 
 Un blog increíble para GG, hecho en la clase de Platzi.
